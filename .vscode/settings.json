@@ -1,0 +1,7 @@
+{
+    "workbench.editor.languageDetection": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      }
+}
